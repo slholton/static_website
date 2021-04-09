@@ -11,6 +11,11 @@ html {
   body {
     margin: 0;
   }
+
+  button {
+    text-align: center;
+    float: right;
+  }
   
   /* Container of whole unit
   ----------------------------- */
