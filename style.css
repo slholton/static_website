@@ -129,27 +129,25 @@ html {
   }
   
   .Cat:nth-child(2) {
-    background-image: url(https://i0.wp.com/cinemacy.com/wp-content/uploads/2020/12/nomadland-2-scaled-e1614062489158-818x460.jpeg?resize=818%2C460&ssl=1);
+    background-image: url(../static_website/assets/nomadland.jpg);
   }
   
   .Cat:nth-child(3) {
-    background-image: url(https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/billie-holiday-hulu.jpg);
+    background-image: url(//assets/usvsbillieholiday.jpg);
   }
   
   .Cat:nth-child(4) {
-    width: 425px;
-    height: 33.3%;
-    background-image: url(https://static.hollywoodreporter.com/wp-content/uploads/2021/01/The_Haves__Have_Nots_Cast_Shot_2015-H-2021-1610479286-1024x577.jpg);
+    background-image: url(..//static_website/assets/hahn.jpg);
   }
   
   .Cat:nth-child(5) {
     width: 425px;
     height: 33.3%;
-    background-image: url(https://images-na.ssl-images-amazon.com/images/I/A15UzUEbR9L._RI_.jpg);
+    background-image: url(../static_website/assets/snowfall.jpg);
   }
   
   .Cat:nth-child(6) {
     width: 425px;
     height: 33.3%;
-    background-image: url(https://img2.hulu.com/user/v3/artwork/36c01be2-e036-46d9-9da2-522bfd12b54f?base_image_bucket_name=image_manager&base_image=5b764d31-536f-403b-a0dd-b25146bbd638&size=550x825&format=jpeg);
+    background-image: url(../static_website/assets/shrek_registry.jpg);
   }
