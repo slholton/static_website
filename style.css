@@ -13,8 +13,10 @@ a {
 }
 
 #masthead {
+  margin-top: 6em;
   text-align: center;
   color: white;
+  margin-bottom: 3em;
 }
 
 html {
@@ -34,7 +36,13 @@ html {
 
   button {
     text-align: center;
-    float: right;
+    float: center;
+    background-color: white;
+    border-radius: 0.3em;
+    border: 1px solid #16207D;
+    font-size:  14px;
+    font-weight: 600;
+    padding: 20px 50px 20px 50px;
   }
   
   /* Container of whole unit
